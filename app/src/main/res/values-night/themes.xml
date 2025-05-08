@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PupilsMeshTask" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <color name="primaryColor">#E5BB55</color>
+    <color name="colorOnPrimary">#FBF6F4</color>
+    <color name="colorAccent">#FBF6F4</color>
+    <color name="colorSecondary">#FBF6F4</color>
+</resources>
